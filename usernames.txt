@@ -1,0 +1,11 @@
+msfadmin
+admin
+root
+user
+test
+guest
+developer
+manager
+operator
+support
+service
