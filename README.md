@@ -11,7 +11,7 @@ This repository contains Python-based exploits and a collection of ready-to-use 
 
 ![Screenshot 2024-12-24 010301](https://github.com/user-attachments/assets/43a14c8e-1deb-4369-a6d3-9fe7197443cf)
 
-Exploits:
+🔥 Exploits:
 
 - SSH Brute Force Attack (ssh_exploit.py)
   
@@ -41,7 +41,7 @@ Exploits:
 
   Targets UnrealIRCd vulnerabilities to execute remote code.
 
-Built-in Tools:
+⚙️ Built-in Tools:
 
 In addition to the custom exploits, the toolkit includes ready-to-use tools for scanning, enumeration, and exploitation:
 
