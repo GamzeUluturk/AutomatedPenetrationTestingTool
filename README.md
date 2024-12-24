@@ -13,26 +13,44 @@ This repository contains Python-based exploits and a collection of ready-to-use 
 
 Exploits:
 
-• SSH Brute Force Attack (ssh_exploit.py)
+- SSH Brute Force Attack (ssh_exploit.py)
+  
   Performs brute-force attacks on SSH services to test weak credentials.
 
-• FTP Anonymous Access Exploit (ftp_exploit.py)
+- FTP Anonymous Access Exploit (ftp_exploit.py)
+  
   Checks and exploits anonymous access vulnerabilities in FTP services.
 
-• SMB Exploit (smb_exploit.py)
+- SMB Exploit (smb_exploit.py)
+
   Retrieves user information and files from vulnerable SMB services.
 
-• VNC Authentication Bypass (vnc_exploit.py)
+- VNC Authentication Bypass (vnc_exploit.py)
+
   Tests for authentication bypass vulnerabilities in VNC services.
 
-• DistCC Remote Code Execution (distcc_exploit.py)
+- DistCC Remote Code Execution (distcc_exploit.py)
+
   Executes remote commands using the DistCC service vulnerability.
 
-• Ingreslock Exploit (ingreslock_exploit.py)
+- Ingreslock Exploit (ingreslock_exploit.py)
+
   Exploits the ingreslock backdoor to establish connections.
 
-• UnrealIRCd Remote Code Execution (unreal_exploit.py)
+- UnrealIRCd Remote Code Execution (unreal_exploit.py)
+
   Targets UnrealIRCd vulnerabilities to execute remote code.
 
+Built-in Tools:
 
+In addition to the custom exploits, the toolkit includes ready-to-use tools for scanning, enumeration, and exploitation:
+
+- Nmap Scan - Network scanning and host discovery.
+- Feroxbuster Scan - Fast and efficient directory brute-forcing.
+- Gobuster Scan - Directory and DNS brute-forcing.
+- Nikto Scan - Web server vulnerability scanning.
+- Hydra Brute Force - Brute-force password cracking.
+- Metasploit Console - Comprehensive framework for exploitation and post-exploitation.
+
+These tools can be launched directly from the Exploit and Tool Menu.
   
